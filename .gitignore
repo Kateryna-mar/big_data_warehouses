@@ -1,0 +1,20 @@
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Збірка та компіляція
+[Bb]in/
+[Oo]bj/
+
+## NuGet пакети
+packages/*
+!packages/build/
+!packages.config
+
+## Бази даних SQLite
+*.db
+*.sqlite
+*.sqlite3
