@@ -137,7 +137,7 @@ namespace lab4
             }
             else
             {
-                MessageBox.Show("Файл Result.xml відсутній! Спершу виконайте вибірку за кодом/ціною.");
+                MessageBox.Show("Файл Result.xml відсутній! Спершу виконайте вибірку за ціною.");
             }
         }
 
