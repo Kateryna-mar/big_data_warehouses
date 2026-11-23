@@ -1,0 +1,80 @@
+[
+  {
+    "brand": "The Ordinary",
+    "title": "Niacinamide 10% + Zinc 1%",
+    "category": "Сироватки",
+    "description": "Сироватка для зменшення висипань і себорегуляції.",
+    "inci": "Aqua, Niacinamide, Pentylene Glycol, Zinc PCA, Dimethyl Isosorbide, Tamarindus Indica Seed Gum, Xanthan Gum, Isoceteth-20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin.",
+    "attributes": {
+      "skin_type": [ "жирна", "комбінована", "проблемна" ],
+      "active_ingredients": [ "Ніацинамід", "Цинк" ],
+      "cruelty_free": true
+    },
+    "variants": [
+      {
+        "variant_sku": "TO-NIA-30",
+        "volume_ml": 30,
+        "price_uah": 320.00,
+        "initial_stock": 25
+      },
+      {
+        "variant_sku": "TO-NIA-60",
+        "volume_ml": 60,
+        "price_uah": 580.00,
+        "initial_stock": 10
+      }
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "title": "Moisturizing Cream",
+    "category": "Креми для обличчя",
+    "description": "Зволожувальний крем для сухої та дуже сухої шкіри з церамідами.",
+    "inci": "Aqua / Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Ceramide NP, Ceramide AP, Ceramide EOP, Phytosphingosine, Cholesterol, Hyaluronic Acid.",
+    "attributes": {
+      "skin_type": [ "суха", "нормальна", "чутлива" ],
+      "active_ingredients": [ "Цераміди", "Гіалуронова кислота" ],
+      "cruelty_free": false
+    },
+    "variants": [
+      {
+        "variant_sku": "CRV-CRM-50",
+        "volume_ml": 50,
+        "price_uah": 240.00,
+        "initial_stock": 40
+      },
+      {
+        "variant_sku": "CRV-CRM-177",
+        "volume_ml": 177,
+        "price_uah": 490.00,
+        "initial_stock": 15
+      },
+      {
+        "variant_sku": "CRV-CRM-454",
+        "volume_ml": 454,
+        "price_uah": 820.00,
+        "initial_stock": 8
+      }
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "title": "Anthelios UVMune 400 SPF 50+",
+    "category": "Сонцезахисні засоби",
+    "description": "Сонцезахисний невидимий флюїд з високим ступенем захисту від UVA/UVB променів.",
+    "inci": "Aqua / Water, Alcohol Denat., Triethyl Citrate, Diisopropyl Sebacate, Silica, Ethylhexyl Salicylate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Glycerin.",
+    "attributes": {
+      "skin_type": [ "всі типи", "чутлива" ],
+      "active_ingredients": [ "Mexoryl 400", "Гліцерин" ],
+      "cruelty_free": false
+    },
+    "variants": [
+      {
+        "variant_sku": "LRP-ANT-50",
+        "volume_ml": 50,
+        "price_uah": 720.00,
+        "initial_stock": 30
+      }
+    ]
+  }
+]
